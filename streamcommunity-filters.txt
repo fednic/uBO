@@ -18,3 +18,5 @@ streamingcommunity.cz##.scrollbar.details > .download > .download-btn > .downloa
 
 ! per lasciare la freccia download ma senza apertura pagina della funzionalità extra
 streamingcommunity.cz##.centered.modal
+
+! Vediamo se aggiorna anche su Github
