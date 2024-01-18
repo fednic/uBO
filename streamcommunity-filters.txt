@@ -1,3 +1,5 @@
+! Expires: 1 day
+
 ! 2024-01-08 https://streamingcommunity.cz
 streamingcommunity.*##.banner
 streamingcommunity.*##.close-banner
