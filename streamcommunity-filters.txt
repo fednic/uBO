@@ -15,3 +15,5 @@ streamingcommunity.*##div.user-action:nth-of-type(4)
 streamingcommunity.*##div.user-action:nth-of-type(3)
 streamingcommunity.*##.download.nav-item > .download-btn
 streamingcommunity.*##.scrollbar.details > .download > .download-btn > .download-icon
+
+! La lista si è aggiornata dopo circa 8 ore ^_^
