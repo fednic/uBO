@@ -15,8 +15,3 @@ streamingcommunity.*##div.user-action:nth-of-type(4)
 streamingcommunity.*##div.user-action:nth-of-type(3)
 streamingcommunity.*##.download.nav-item > .download-btn
 streamingcommunity.*##.scrollbar.details > .download > .download-btn > .download-icon
-
-! per lasciare la freccia download ma senza apertura pagina della funzionalità extra
-streamingcommunity.cz##.centered.modal
-
-! Vediamo se aggiorna anche su Github
