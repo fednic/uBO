@@ -1,4 +1,4 @@
-! Expires: 1 day
+! Expires: 8 hours
 
 streamingcommunity.*##.banner
 streamingcommunity.*##.close-banner
