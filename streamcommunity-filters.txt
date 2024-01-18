@@ -1,22 +1,20 @@
 ! Expires: 1 day
 
-! 2024-01-08 https://streamingcommunity.cz
 streamingcommunity.*##.banner
 streamingcommunity.*##.close-banner
 streamingcommunity.*##.slide-banner
 
-streamingcommunity.cz##div.socials
+streamingcommunity.*##.socials
 
-streamingcommunity.cz##div.nav-item > [href="https://www.animeunity.to"]
-streamingcommunity.cz##div.nav-item > [href="https://streamingcommunity.cz/premium"]
-streamingcommunity.cz##div.nav-item > [href="https://streamingcommunity.cz/richiedi-un-titolo"]
+streamingcommunity.*##div.nav-item:nth-of-type(6)
+streamingcommunity.*##div.nav-item:nth-of-type(7)
+streamingcommunity.*##div.nav-item:nth-of-type(8)
 streamingcommunity.*##.btn-login.nav-item
 
-streamingcommunity.cz##div.user-action:nth-of-type(4)
-streamingcommunity.cz##div.user-action:nth-of-type(3)
-streamingcommunity.cz##.download.nav-item > .download-btn
-streamingcommunity.cz##.scrollbar.details > .download > .download-btn > .download-icon
-
+streamingcommunity.*##div.user-action:nth-of-type(4)
+streamingcommunity.*##div.user-action:nth-of-type(3)
+streamingcommunity.*##.download.nav-item > .download-btn
+streamingcommunity.*##.scrollbar.details > .download > .download-btn > .download-icon
 
 ! per lasciare la freccia download ma senza apertura pagina della funzionalità extra
 streamingcommunity.cz##.centered.modal
